@@ -1,0 +1,22 @@
+{
+  "name": "tailwind-css",
+  "version": "1.0.0",
+  "description": "tailwind convert latin to kril",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsilbekYoldashaliyev/tailwind-css.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsilbekYoldashaliyev/tailwind-css/issues"
+  },
+  "homepage": "https://github.com/AsilbekYoldashaliyev/tailwind-css#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
